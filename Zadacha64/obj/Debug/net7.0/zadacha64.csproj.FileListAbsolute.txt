@@ -1,0 +1,15 @@
+E:\study\DZ_C#\DZ_seminar9_C#\zadacha64\bin\Debug\net7.0\zadacha64.exe
+E:\study\DZ_C#\DZ_seminar9_C#\zadacha64\bin\Debug\net7.0\zadacha64.deps.json
+E:\study\DZ_C#\DZ_seminar9_C#\zadacha64\bin\Debug\net7.0\zadacha64.runtimeconfig.json
+E:\study\DZ_C#\DZ_seminar9_C#\zadacha64\bin\Debug\net7.0\zadacha64.dll
+E:\study\DZ_C#\DZ_seminar9_C#\zadacha64\bin\Debug\net7.0\zadacha64.pdb
+E:\study\DZ_C#\DZ_seminar9_C#\zadacha64\obj\Debug\net7.0\zadacha64.csproj.AssemblyReference.cache
+E:\study\DZ_C#\DZ_seminar9_C#\zadacha64\obj\Debug\net7.0\zadacha64.GeneratedMSBuildEditorConfig.editorconfig
+E:\study\DZ_C#\DZ_seminar9_C#\zadacha64\obj\Debug\net7.0\zadacha64.AssemblyInfoInputs.cache
+E:\study\DZ_C#\DZ_seminar9_C#\zadacha64\obj\Debug\net7.0\zadacha64.AssemblyInfo.cs
+E:\study\DZ_C#\DZ_seminar9_C#\zadacha64\obj\Debug\net7.0\zadacha64.csproj.CoreCompileInputs.cache
+E:\study\DZ_C#\DZ_seminar9_C#\zadacha64\obj\Debug\net7.0\zadacha64.dll
+E:\study\DZ_C#\DZ_seminar9_C#\zadacha64\obj\Debug\net7.0\refint\zadacha64.dll
+E:\study\DZ_C#\DZ_seminar9_C#\zadacha64\obj\Debug\net7.0\zadacha64.pdb
+E:\study\DZ_C#\DZ_seminar9_C#\zadacha64\obj\Debug\net7.0\zadacha64.genruntimeconfig.cache
+E:\study\DZ_C#\DZ_seminar9_C#\zadacha64\obj\Debug\net7.0\ref\zadacha64.dll
